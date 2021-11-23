@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou disponível  para estágio.
+- 🔭 Estou disponível  para estágio/trainee.
 - 🌱 Estou me especializando em JAVA.
 - 📫 Contato: joao.menes@hotmail.com
 - 😄 Pronomes ele/dele
@@ -24,17 +24,15 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
-  
   <div> 
-
   <a href="https://www.instagram.com/joao.menes98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://api.whatsapp.com/send?phone=5511951536994&text=Ol%C3%A1%20como%20posso%20ajuda-lo%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </a> 
-  <a href="https://www.linkedin.com/in/joaocaetanomenes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joaocaetanomenes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
   ![Bedroom mood by bbrunomoraes on DeviantArt](https://user-images.githubusercontent.com/76728281/143130034-169506fa-e404-401a-a05b-5010f45b8b22.gif)
- 
-  
- 
 </div>
