@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Disponível  para estágio/trainee.
+- 🔭 Disponível.
 - 🌱 Estou me especializando em JAVA.
 - 📫 Contato: joao.menes@hotmail.com
 - 😄 Pronomes ele/dele
