@@ -1,5 +1,5 @@
 <b>01110011 01100101 01101010 01100001 00100000 01100010 01100101 01101101 00100000 01110110 01101001 01101110 01100100 01101111 ou apenas SEJA BEM VINDO!!!</b>
-### Oi, sou o João Menes! Meus contatos estão disponíveis👋
+### Oi, sou o João Menes!
 
 - 🔭 Disponível.
 - 👨‍🎓 Formado em análise e desenvolvimento de sistemas, técnico em informática e Pós Graduado em Engenharia de Dados.
@@ -23,9 +23,7 @@
   <img align="center" alt="j" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg">
   <img align="center" alt="j" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
-  <div> 
-    <a href="https://www.instagram.com/joao.menes98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://api.whatsapp.com/send?phone=5511951536994&text=Ol%C3%A1%20como%20posso%20ajuda-lo%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" ></a> 
+  <div>  
   <a href="https://www.linkedin.com/in/joaocaetanomenes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
  ![tumblr_o8mxaw9rU51r4gsiio1_1280_gif (900×480)](https://miro.medium.com/max/1400/1*L_QoAG863l8QvqxpNyBiqw.gif)
