@@ -2,9 +2,8 @@
 ### Oi, sou o João Menes! Meus contatos estão disponíveis👋
 
 - 🔭 Disponível.
-- 👨‍🎓 Formado em análise e desenvolvimento de sistemas, técnico em informática e estudando Ciência da computação (Atualmente no 3° semestre).
+- 👨‍🎓 Formado em análise e desenvolvimento de sistemas, técnico em informática e Pós Graduado em Engenharia de Dados.
 - 🧠 <b>Um Dev sempre em desenvolvimento.</b>
-- 📫 <b>Contato: joao.menes@hotmail.com</b>
 - 😄 Pronomes ele/dele
 
   <div style="display: inline_block"><br>
