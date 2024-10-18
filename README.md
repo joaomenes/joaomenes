@@ -4,7 +4,6 @@
 - 🔭 Disponível.
 - 👨‍🎓 Formado em análise e desenvolvimento de sistemas, técnico em informática e Pós Graduado em Engenharia de Dados.
 - 🧠 <b>Um Dev sempre em desenvolvimento.</b>
-- 😄 Pronomes ele/dele
 
   <div style="display: inline_block"><br>
   <img align="center" alt="j" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +22,7 @@
   <img align="center" alt="j" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg">
   <img align="center" alt="j" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
-  <div>  
+  <div>
   <a href="https://www.linkedin.com/in/joaocaetanomenes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
 
