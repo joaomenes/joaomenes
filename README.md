@@ -26,5 +26,8 @@
   <div>  
   <a href="https://www.linkedin.com/in/joaocaetanomenes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
- ![tumblr_o8mxaw9rU51r4gsiio1_1280_gif (900×480)](https://miro.medium.com/max/1400/1*L_QoAG863l8QvqxpNyBiqw.gif)
+
+![giphy](https://github.com/user-attachments/assets/289c4789-c523-46fc-ba78-27b4e7c3273a)
+
+
 </div>
